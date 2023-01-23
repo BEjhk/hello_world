@@ -2,4 +2,4 @@
 
 My fisrst repository on GitHub
 
-I love ☕, 🍕, and 💃. 
+I love ☕, 🍕
